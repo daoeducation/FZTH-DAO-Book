@@ -2,12 +2,12 @@
 module.exports = {
     title: 'FZTH - Diseño de Ecosistemas',
     tagline: 'Diseño de Ecosystemas y DAOs',
-    url: 'https://your-docusaurus-test-site.com',
-    baseUrl: '/',
+    url: 'https://daoeducation.github.io',
+    baseUrl: '/FZTH-DAO-Book/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'DAO Education', // Usually your GitHub org/user name.
+    organizationName: 'daoeducation', // Usually your GitHub org/user name.
     projectName: 'FZTH-DAO-Book', // Usually your repo name.
     themeConfig: {
         navbar: {
@@ -20,7 +20,7 @@ module.exports = {
                     type: 'doc',
                     docId: 'intro',
                     position: 'left',
-                    label: 'Tutorial',
+                    label: 'DAOs',
                 },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {

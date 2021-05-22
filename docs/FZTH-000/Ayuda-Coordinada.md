@@ -1,24 +1,24 @@
 # Ayuda Coordinada DAO
 
 ## MANIFIESTO
-## *"Facilitar a las personas un medio para proveer capital financiero y conocimiento senior de una manera directa, trazable y eficiente"*
+> "Facilitar a las personas un medio para proveer capital financiero y conocimiento senior de una manera directa, trazable y eficiente"
 
-###### En Ayuda Coordinada Dao queremos convertirnos en una opción real para personas en busca de apoyo, socializando la necesidad que tienen y activando un sistema ya existente en su favor.
+ En Ayuda Coordinada Dao queremos convertirnos en una opción real para personas en busca de apoyo, socializando la necesidad que tienen y activando un sistema ya existente en su favor.
   
      
-1. #### ++NUESTRA MISIÓN++
-###### ++Ayudar a otros a través de la Mentorización++: poner a disposición de otros nuestro propio conocimiento y Know-How de una forma coherente y sistematizada que suponga para muchos una ayuda real y cercana a las necesidades que tienen. 
-###### Hoy en día hay muchas ONGs y sistemas previamente establecidos que buscan ayudar a través de financiar diversos ecosistemas que son deficitarios, que están mal estructurados o que son inexsistentes pero es muy dificil conseguir contactar con guías o mentores que, más allá del dinero, estén dispuestos a invertir su tiempo y su know-how en ayuda de otros.
-###### Creemos que hay mucha gente dispuesta a ayudar pero que no cree en los canales de ayuda tradicionales y tampoco encuentra la manera efectiva y directa de ayudar a otros.
-###### Ayuda Coordinada Dao viene a cubrir ese nicho: pondremos en contacto gente que necesita ayuda con Mentores en diferentes paises y con formaciones muy dispares para que aquellos que quieran puedan recibir Mentoring de ellos.
+1. #### NUESTRA MISIÓN
+ Ayudar a otros a través de la Mentorización++: poner a disposición de otros nuestro propio conocimiento y Know-How de una forma coherente y sistematizada que suponga para muchos una ayuda real y cercana a las necesidades que tienen. 
+ Hoy en día hay muchas ONGs y sistemas previamente establecidos que buscan ayudar a través de financiar diversos ecosistemas que son deficitarios, que están mal estructurados o que son inexsistentes pero es muy dificil conseguir contactar con guías o mentores que, más allá del dinero, estén dispuestos a invertir su tiempo y su know-how en ayuda de otros.
+ Creemos que hay mucha gente dispuesta a ayudar pero que no cree en los canales de ayuda tradicionales y tampoco encuentra la manera efectiva y directa de ayudar a otros.
+ Ayuda Coordinada Dao viene a cubrir ese nicho: pondremos en contacto gente que necesita ayuda con Mentores en diferentes paises y con formaciones muy dispares para que aquellos que quieran puedan recibir Mentoring de ellos.
   
   
-2. #### ++NUESTRA VISIÓN++
-###### Ayuda Coordinada Dao pretende ser una Organización global que integre a los mejores profesionales dispuestos a poner al servicio de otros su tiempo y sus conocimientos.
+2. #### NUESTRA VISIÓN
+ Ayuda Coordinada Dao pretende ser una Organización global que integre a los mejores profesionales dispuestos a poner al servicio de otros su tiempo y sus conocimientos.
 
 
 3. #### ++NUESTROS VALORES++
-* ###### ***++Abierta y accesible++:*** Cualquier persona que quiera participar de la DAO esta en el derecho de hacerlo y es invitado a participar. Las reglas de comportamiento, asi como el propósito, son claras y transparentes para guiar la conducta de todos aquellos nuevos integrantes.
+*  ***++Abierta y accesible++:*** Cualquier persona que quiera participar de la DAO esta en el derecho de hacerlo y es invitado a participar. Las reglas de comportamiento, asi como el propósito, son claras y transparentes para guiar la conducta de todos aquellos nuevos integrantes.
 * ###### ***++Adaptable++:*** Dichas conductas esperables, anteriormente mencionadas, son diseñadas y actualizadas por todos los participantes de la DAO, siendo esta un organismo vivo que se adapta al propósito y requerimientos de sus integrantes.
 * ###### ***++Bien común++:*** El protocolo es un bien de todos, que pensamos, nutrimos y diseñamos en pos de ampliar la contribución comunitaria de impacto enfocada en el desarrollo de sus participantes.
 * ###### ***++Transparencia++:*** nos gusta ayudar de forma efectiva y directa, sin intermediarios.
