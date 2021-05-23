@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+routeBasePath: '/'
+slug: /
 ---
 
 # From Zero to Hero - Diseño de Ecosistemas

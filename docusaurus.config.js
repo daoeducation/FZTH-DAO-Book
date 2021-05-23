@@ -11,10 +11,10 @@ module.exports = {
     projectName: 'FZTH-DAO-Book', // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: 'My Site',
+            title: 'FZTH',
             logo: {
-                alt: 'My Site Logo',
-                src: 'img/logo.svg',
+                alt: 'DAOE Logo',
+                src: 'img/logo.png',
             },
             items: [{
                     type: 'doc',
@@ -22,9 +22,8 @@ module.exports = {
                     position: 'left',
                     label: 'DAOs',
                 },
-                { to: '/blog', label: 'Blog', position: 'left' },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
+                    href: 'https://github.com/daoeducation/FZTH-DAO-Book',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -42,33 +41,24 @@ module.exports = {
                 {
                     title: 'Community',
                     items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                        },
-                        {
                             label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            href: 'https://discord.gg/K4veWYkTkY',
                         },
                         {
                             label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            href: 'https://twitter.com/EducationDAO',
                         },
                     ],
                 },
                 {
                     title: 'More',
                     items: [{
-                            label: 'Blog',
-                            to: '/blog',
-                        },
-                        {
-                            label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
-                        },
-                    ],
+                        label: 'GitHub',
+                        href: 'https://github.com/daoeducation',
+                    }, ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} DAO Education. Built with Docusaurus.`,
         },
     },
     presets: [
@@ -76,9 +66,10 @@ module.exports = {
             '@docusaurus/preset-classic',
             {
                 docs: {
+                    routeBasePath: "/",
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
+                    editUrl: 'https://github.com/daoeducation/FZTH-DAO-Book',
                 },
                 blog: {
                     showReadingTime: true,
