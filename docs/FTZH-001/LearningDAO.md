@@ -56,7 +56,7 @@ Lograremos que este estándar democrático sea reconocido a nivel global a trav�
 
 Para esto construiremos herramientas y recursos atractivos que faciliten la adopción tanto de aplicantes como de evaluadores. Nuestra interfaz conectará intuitivamente a los individuos con oportunidades laborales sin importar dónde obtuvo ese conocimiento.
 
-Además creemos que el conocimiento debe ser accesible para todo ser humano. Por ello construiremos un mecanismo para fondear registros de aplicantes.
+Además creemos que el conocimiento debe ser accesible para todo ser humano. Por ello construiremos un mecanismo para fondear registros de aplicantes
 
 **Si crees que el conocimiento debe ser accesible, justo, y universal para todos, únete a [Learning DAO!](https://xdai.colony.io/colony/daolearning)**
 
